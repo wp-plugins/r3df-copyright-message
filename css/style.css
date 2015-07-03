@@ -1,0 +1,18 @@
+.r3df-cm-twentyeleven #r3df-copyright-message,
+.r3df-cm-twentythirteen #r3df-copyright-message {
+    margin-right: 2em;
+}
+
+.r3df-cm-twentytwelve .site-info > a[href="https://wordpress.org/"],
+.r3df-cm-twentyfourteen .site-info > a[href="https://wordpress.org/"],
+.r3df-cm-twentyfifteen .site-info > a[href="https://wordpress.org/"] {
+    float: right;
+}
+
+.r3df-cm-twentyeleven.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-twentytwelve.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-twentythirteen.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-twentyfourteen.r3df-cm-hide-pbw .site-info > a,
+.r3df-cm-twentyfifteen.r3df-cm-hide-pbw .site-info > a {
+    display: none;
+}
